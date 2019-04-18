@@ -127,6 +127,7 @@ nav a{
 
 ul{
     display: none;
+    list-style-type: none;
     
 }
 
